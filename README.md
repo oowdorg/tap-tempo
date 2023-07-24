@@ -1,5 +1,7 @@
 # tap-tempo
 
+![main workflow](https://github.com/oowdorg/tap-tempo/actions/workflows/ci.yaml/badge.svg)
+
 1. `npm install oowdorg/tap-tempo`
 
 2.
