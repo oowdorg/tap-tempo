@@ -1,0 +1,17 @@
+{
+    "name": "tap-tempo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+        "test": "jest",
+        "ts-node-demo": "ts-node demo.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@jest/globals": "^29.6.1",
+        "ts-jest": "^29.1.1"
+    }
+}
