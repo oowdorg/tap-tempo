@@ -1,15 +1,17 @@
 {
     "name": "tap-tempo",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.ts",
+    "description": "Calc BPM.",
+    "main": "lib/index.ts",
     "scripts": {
         "test": "jest --coverage",
         "ts-node-demo": "ts-node demo.ts"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "taptempo"
+    ],
+    "author": "oowd",
+    "license": "MIT",
     "devDependencies": {
         "@jest/globals": "^29.6.1",
         "ts-jest": "^29.1.1"
