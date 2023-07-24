@@ -4,5 +4,7 @@ const timestamps: number[] = []
 setInterval(() => {
     timestamps.push(Date.now())
     const bpm = TapTempo.calcBpm(timestamps) // This
-    console.log(bpm)
+    if (bpm) {
+        console.log(bpm)
+    }
 }, 500)
