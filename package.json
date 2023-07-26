@@ -5,7 +5,7 @@
     "main": "lib/index.ts",
     "scripts": {
         "test": "jest --coverage",
-        "ts-node-demo": "ts-node demo.ts"
+        "example": "ts-node example/index.ts"
     },
     "keywords": [
         "taptempo"

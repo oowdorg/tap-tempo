@@ -1,4 +1,4 @@
-import TapTempo from './lib/index'
+import TapTempo from '../index'
 
 const timestamps: number[] = []
 setInterval(() => {
